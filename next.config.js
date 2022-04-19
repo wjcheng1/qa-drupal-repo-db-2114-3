@@ -8,7 +8,7 @@ require("dotenv").config({
 });
 
 let backendUrl, imageDomain;
-console.log("*****************************************************")
+console.log("*****************************************************1820")
 console.log('NODE_ENV:', process.env.NODE_ENV)
 console.log('BACKEND_URL:', process.env.BACKEND_URL)
 console.log('PANTHEON_CMS_ENDPOINT:', process.env.PANTHEON_CMS_ENDPOINT)
